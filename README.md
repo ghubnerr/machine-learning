@@ -9,6 +9,9 @@ Welcome to the place where I learn stuff and put it in a Colab to make it make s
 - [JAX, Flax, Optax, etc](jax/)
 - [AutoGrad](autograd/)
 - [Computer Vision](computer_vision/)
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/ghubnerr/machine-learning/main/docs/latent_space_evolution_tsne" width="600">
+  </p>
 - [Makemore (ft. Andrej Karpathy)](makemore/)
 - Extras:
   - Tokenization Methods: [GPT Tokenizer](./GPT_Tokenizer.ipynb)
