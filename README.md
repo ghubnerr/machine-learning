@@ -10,7 +10,7 @@ Welcome to the place where I learn stuff and put it in a Colab to make it make s
 - [AutoGrad](autograd/)
 - [Computer Vision](computer_vision/)
   <p align="left">
-    <img src="https://raw.githubusercontent.com/ghubnerr/machine-learning/main/docs/latent_space_evolution_tsne" width="600">
+    <img src="./docs/latent_space_evolution_tsne.gif" width="600">
   </p>
 - [Makemore (ft. Andrej Karpathy)](makemore/)
 - Extras:
