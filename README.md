@@ -8,6 +8,7 @@ Welcome to the place where I learn stuff and put it in a Colab to make it make s
 
 - [JAX, Flax, Optax, etc](jax/)
 - [AutoGrad](autograd/)
+- [Computer Vision](computer_vision/)
 - [Makemore (ft. Andrej Karpathy)](makemore/)
 - Extras:
   - Tokenization Methods: [GPT Tokenizer](./GPT_Tokenizer.ipynb)
